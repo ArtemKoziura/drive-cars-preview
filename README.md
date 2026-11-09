@@ -1,2 +1,3 @@
-# drive-cars-preview
-Drive Cars UA — тестова версія нового сайту
+# Drive Cars UA
+
+Тестова версія сайту. Готова статична збірка для GitHub Pages.
